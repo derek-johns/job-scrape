@@ -1,0 +1,8 @@
+# virtual env folder
+venv
+
+# python
+__pycache__
+
+# other
+.idea/
